@@ -1,0 +1,39 @@
+automation testing
+
+java application
+
+selenium ide(plugin)
+selenium webdriver
+
+
+java
+jar files
+
+chrome.zip
+system.setproperty("location");
+99.6
+
+100
+
+
+maven repository
+==============================
+class 1
+
+output,input ststement
+looping
+'datatypes
+assg 1:
+accept value from console ,check and print even or odd
+=======================
+class 2
+
+single and multi dimensional array
+declaring the size of the array and giving valuesa ta desightime
+designing the array at designtime
+
+assg2:
+declare the size of the array
+accept the value at runtime
+print the value
+==========================
